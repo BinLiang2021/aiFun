@@ -6,14 +6,11 @@ Welcome to "AI for Fun", a public repository dedicated to exploring and demonstr
 ## Repository Structure
 The repository is organized into several folders, each dedicated to a specific type of multi-modal model. Below is the structure and a brief description of what you will find in each folder:
 
-- **Text-to-Image**: Models that generate images from textual descriptions.
+
 - **Text-to-Speech**: Systems that convert text into audible speech.
-- **Text-to-Video**: Tools that create video content based on textual inputs.
-- **Audio-Visual Models**: Models that use both audio and visual data to perform tasks such as speech recognition.
-- **Text and Image-to-3D Models**: Conversion tools that turn text and images into 3D models.
-- **Video and Language Models**: Models that generate or analyze video content through text.
-- **Cross-Modal Retrieval**: Tools for retrieving one type of media using another type (e.g., retrieving images using text descriptions).
-- **Multi-Modal Sentiment Analysis**: Systems that analyze sentiments using combined inputs such as text, video, and audio.
+- **Input-to-Video**: Tools that create video content based on textual inputs.
+- **Text and Image-to-3D**: Conversion tools that turn text and images into 3D outputs.
+
 
 Each folder contains a mix of examples, documentation, and benchmark results for the models it includes.
 
