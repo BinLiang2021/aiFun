@@ -13,6 +13,7 @@ Each sub-category provides specialized models and tools designed to cater to dif
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m2EHennRap0aJTo3N-4-sbrbqyhQvpqb?usp=sharing)
 
+However, the closed source program has higher quality: [ElevenLabs](https://elevenlabs.io/)
 
 ### 2. Speech Synthesis from Emotion
 - **Description**: Produces speech that conveys specific emotions to enhance the expressiveness of synthesized speech.
