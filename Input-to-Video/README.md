@@ -12,6 +12,7 @@ Each sub-category provides specialized models and tools designed to cater to dif
 
 
 [Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DREfdpnaBhqISg0fuQlAAIwyGVn1loH_?usp=sharing)
 
 [open-mmlab/pia](https://github.com/open-mmlab/PIA)
@@ -19,6 +20,7 @@ Each sub-category provides specialized models and tools designed to cater to dif
 
 
 However, the closed source program has higher resolution, there are multiple tools that can be used: 
+
 [D-ID](https://www.d-id.com/)
 [synthesia](https://www.synthesia.io/)
 [Vidnoz](https://aiapp.vidnoz.com/avatar/index.html)
@@ -30,19 +32,24 @@ However, the closed source program has higher resolution, there are multiple too
 - **Open-soured Method**:
 
 Classic wav2lip, input video and audio file, output the video which sync the lip to the audio file.
+
 [Wav2Lip](https://github.com/Rudrabha/Wav2Lip)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tZpDWXz49W6wDcTprANRGLo2D_EbD5J8?usp=sharing)
 
 [Sync Labs](https://synclabs.so/)
+
 It hosts free wave2lip model for public and it also hosts higher resolution model sync-1.6.0 for lip sync.
 
 
 There is another method called SadTalker, which has similar performance compared to the wave2lip model.
 Unlike wave2lip, the input of SadTalker is image and audio.
 [SadTalker](https://github.com/OpenTalker/SadTalker)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Winfredy/SadTalker/blob/main/quick_demo.ipynb)
 
 Again, the closed source program has higher resolution, and most of them provide both functionalities ofimage-to-video animation and lip sync: 
+
 [D-ID](https://www.d-id.com/)
 [synthesia](https://www.synthesia.io/)
 [Vidnoz](https://aiapp.vidnoz.com/avatar/index.html)
@@ -55,13 +62,17 @@ The hottest model sora, is not yet published.
 [sora](https://openai.com/index/sora/)
 
 There are several alternative:
-prompt: an astonishing asian girl work on the stone street under the rain, with umbrella in hand
-[Haiper](https://haiper.ai/product)
 
-![demo](../docs/haiper.mp4)
+prompt: an astonishing asian girl work on the stone street under the rain, with umbrella in hand
+
+[Haiper](https://haiper.ai/product)
+<video width="320" height="240" controls>
+  <source src="../docs/haiper.mp4" type="video/mp4">
+</video>
 
 
 [runway](https://app.runwayml.com/video-tools/teams/xiangpengwan/ai-tools/gen-2)
-
-![demo](../docs/runway.mp4)
+<video width="320" height="240" controls>
+  <source src="../docs/runway.mp4" type="video/mp4">
+</video>
 
