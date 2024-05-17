@@ -48,10 +48,14 @@ Unlike wave2lip, the input of SadTalker is image and audio.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Winfredy/SadTalker/blob/main/quick_demo.ipynb)
 
+The microsoft reserach has just publish a paper that adds eyes movement to the lip sync with 512*512 relosultion, here is the [link](https://arxiv.org/abs/2404.10667).
+
 Again, the closed source program has higher resolution, and most of them provide both functionalities ofimage-to-video animation and lip sync: 
 
 [D-ID](https://www.d-id.com/)
+
 [synthesia](https://www.synthesia.io/)
+
 [Vidnoz](https://aiapp.vidnoz.com/avatar/index.html)
 
 
@@ -66,13 +70,14 @@ There are several alternative:
 prompt: an astonishing asian girl work on the stone street under the rain, with umbrella in hand
 
 [Haiper](https://haiper.ai/product)
-<video width="320" height="240" controls>
-  <source src="../docs/haiper.mp4" type="video/mp4">
-</video>
+
+https://github.com/protagolabs/aiFun/assets/33402371/9cc0fa82-7c6e-4f78-8b79-2aabb43a4750
+
 
 
 [runway](https://app.runwayml.com/video-tools/teams/xiangpengwan/ai-tools/gen-2)
-<video width="320" height="240" controls>
-  <source src="../docs/runway.mp4" type="video/mp4">
-</video>
+
+https://github.com/protagolabs/aiFun/assets/33402371/481df6ce-42a6-4ebd-90ba-da94a6a5d9c0
+
+
 
