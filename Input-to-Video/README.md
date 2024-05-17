@@ -48,7 +48,7 @@ Unlike wave2lip, the input of SadTalker is image and audio.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Winfredy/SadTalker/blob/main/quick_demo.ipynb)
 
-The microsoft reserach has just publish a paper that adds eyes movement to the lip sync with 512*512 relosultion, here is the [link](https://arxiv.org/abs/2404.10667).
+The microsoft reserach has just publish a paper that adds eyes movement to the lip sync with 512*512 relosultion, here is the [link](https://www.microsoft.com/en-us/research/project/vasa-1/).
 
 Again, the closed source program has higher resolution, and most of them provide both functionalities ofimage-to-video animation and lip sync: 
 
